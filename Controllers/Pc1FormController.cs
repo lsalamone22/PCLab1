@@ -33,9 +33,8 @@ namespace PCLab1.Controllers
              ape = objCurso.apellido;
             int credito =3, subtotal=0,  valorxCredito=100;
             double total=0, igv=0;
-            //subtotal sin el IGV
-
-            //GUARDAR SEXO EN UNA VARIABLE
+            
+            //GUARDAR CURSO EN UNA VARIABLE
              //bool active;
 
             string listaCurso=null;
@@ -71,7 +70,7 @@ public ActionResult VistaPcForm(Curso objCurso)
    
        var cursos = new Curso 
     {
-        //radio button de SEXO 
+        //CHECKBOX CURSO 
        CursoList = new List<curso>
         {
             new curso{ID="1" , Type = "Matematica"}, 
