@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj": {}
+    "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj": {}
   },
   "projects": {
-    "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj": {
+    "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj",
+        "projectUniqueName": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj",
         "projectName": "PCLab1",
-        "projectPath": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj",
+        "projectPath": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\PCLab1.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\obj\\",
+        "outputPath": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PCLab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
