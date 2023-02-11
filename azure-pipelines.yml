@@ -39,7 +39,7 @@ steps:
 - task: AzureWebApp@1
   displayName: 'Deploy Azure Web App'
   inputs:
-    azureSubscription: '<michellevasquez-PCLAB1-8ca938dc-fa32-42e5-a3a7-44dffc97d86e>'
+    azureSubscription: '<PCLAB1>'
     appName: <PCLab1-2>
     appType: 'webApp'
     package: $(Build.ArtifactStagingDirectory)/**/*.zip
