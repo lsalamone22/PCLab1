@@ -11,7 +11,7 @@ pool:
 
 variables:
   BuildConfiguration: 'Release'
-  SolutionPath: 'PCLab1\PCLab1.csproj'
+  SolutionPath: 'PCLab1.csproj'
 
 steps:
 # Optional: 'dotnet restore' is not necessary because the 'dotnet build' command executes restore as well.
