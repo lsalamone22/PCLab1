@@ -8,7 +8,7 @@ namespace PCLab1.Models
 {
     public class Curso
     {
-        [Display(Name = "First Name", Prompt = "Enter your First Name")]
+        [Display(Name = "Primer Name", Prompt = "Enter your First Name")]
         public string? nombre{get; set;}
          [Display(Name = "Last Name", Prompt = "Enter your Last Name")]
         public string? apellido{get; set;}

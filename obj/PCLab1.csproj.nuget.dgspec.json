@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PCLab1\\PCLab1.csproj": {}
+    "D:\\Users\\Nleonl\\Desktop\\GIT\\PCLab1\\PCLab1.csproj": {}
   },
   "projects": {
-    "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PCLab1\\PCLab1.csproj": {
+    "D:\\Users\\Nleonl\\Desktop\\GIT\\PCLab1\\PCLab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PCLab1\\PCLab1.csproj",
+        "projectUniqueName": "D:\\Users\\Nleonl\\Desktop\\GIT\\PCLab1\\PCLab1.csproj",
         "projectName": "PCLab1",
-        "projectPath": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PCLab1\\PCLab1.csproj",
-        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "d:\\MICHELLE\\2023\\PROJECTOS_CI-CD_PIPELINE\\PCLab1\\obj\\",
+        "projectPath": "D:\\Users\\Nleonl\\Desktop\\GIT\\PCLab1\\PCLab1.csproj",
+        "packagesPath": "d:\\Users\\Nleonl\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Nleonl\\Desktop\\GIT\\PCLab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "d:\\Users\\Nleonl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
